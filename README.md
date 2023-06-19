@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iván del Cura</h1>
 <h3 align="center">A passionate backend developer and enthusiast of reverse engineering, with a strong love for automation.</h3>
 
-- 🔭 I’m currently working on [f0-firmwares-images](https://github.com/soksx/f0-firmwares-images)
+- 🔭 I’m currently working on [f0-firmwares](https://github.com/soksx/f0-firmwares)
 
 - 💬 Ask me about **dotnet, AWS, docker, automation**
 
